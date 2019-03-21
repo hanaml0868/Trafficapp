@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="h1">36sp</dimen>
+    <dimen name="h2">16sp</dimen>
+    <dimen name="signlogo">150dp</dimen>
+    <dimen name="signicon">80dp</dimen>
+</resources>
